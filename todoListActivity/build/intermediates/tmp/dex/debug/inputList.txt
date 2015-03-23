@@ -1,0 +1,6 @@
+/home/william/AndroidStudioProjects/AllgithubDemos/TodoListActivity/todoListActivity/build/intermediates/classes/debug
+/home/william/AndroidStudioProjects/AllgithubDemos/TodoListActivity/todoListActivity/build/intermediates/pre-dexed/debug/classes-5d47d2fad4efa73c0bbf507e2f99213ddb5da39f.jar
+/home/william/AndroidStudioProjects/AllgithubDemos/TodoListActivity/todoListActivity/build/intermediates/pre-dexed/debug/bolts-android-1.1.2-c830f32e35d4e625611d57a8ca14ae07c18a08a4.jar
+/home/william/AndroidStudioProjects/AllgithubDemos/TodoListActivity/todoListActivity/build/intermediates/pre-dexed/debug/classes-fe08808d12c280b15d17831573d2a0ca8583812f.jar
+/home/william/AndroidStudioProjects/AllgithubDemos/TodoListActivity/todoListActivity/build/intermediates/pre-dexed/debug/support-v4-19.1.0-498393fb3beac12d8b7b25bd9c46c262e85bd99a.jar
+/home/william/AndroidStudioProjects/AllgithubDemos/TodoListActivity/todoListActivity/build/intermediates/pre-dexed/debug/Parse-1.5.1-cbdc3083528cbb86efc7a89c3d7b8146be4d4631.jar
